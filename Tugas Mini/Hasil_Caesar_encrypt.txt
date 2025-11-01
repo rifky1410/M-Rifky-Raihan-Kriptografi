@@ -1,0 +1,11 @@
+=== PROGRAM CIPHER KLASIK (Caesar) ===
+Mode Awal: ENCRYPT
+
+=== TEKS ASLI ===
+Bambang Pamungkas
+
+=== HASIL ENKRIPSI ===
+Edpedqj Sdpxqjndv
+
+=== HASIL DEKRIPSI ===
+Bambang Pamungkas
